@@ -1,0 +1,23 @@
+# Hungry Hub
+
+Hungry Hub is a food delivery mobile application that allows users to browse restaurants, order food, and track deliveries in real time.
+
+## Features
+- Browse restaurants and food items
+- Rating-based food recommendations
+- Coupon and discount system
+- Real-time delivery tracking using maps
+- Order placement and status updates
+
+## Tech Stack
+- Android (Kotlin/Java)
+- Google Maps API
+- Firebase (if used)
+
+## Screenshots
+(Add app screenshots here)
+
+## Future Improvements
+- Online payment integration
+- AI-based food recommendations
+- Chat support for delivery tracking
